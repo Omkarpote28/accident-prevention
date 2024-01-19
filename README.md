@@ -37,7 +37,7 @@ Follow these steps to set up the project:
 
 2. **Upload Code to Arduino:**
    - Open the Arduino IDE.
-   - Load the Arduino code (`accident_prevention_ghat_section.ino`) from the repository.
+   - Load the Arduino code [accident_prevention.ino](https://github.com/Omkarpote28/accident-prevention/tree/main/Code) from the repository.
    - Connect the Arduino board to your computer and upload the code.
 
 3. **Assemble Hardware:**
