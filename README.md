@@ -33,12 +33,14 @@ The project involves the following components:
 
 Follow these steps to set up the project:
 
-1. **Upload Code to Arduino:**
+1. **clone the repository**
+
+2. **Upload Code to Arduino:**
    - Open the Arduino IDE.
    - Load the Arduino code (`accident_prevention_ghat_section.ino`) from the repository.
    - Connect the Arduino board to your computer and upload the code.
 
-2. **Assemble Hardware:**
+3. **Assemble Hardware:**
    - Connect ultrasonic sensors, LED lights, and buzzer based on the provided schematic.
    - Ensure all components are securely connected.
 
