@@ -33,14 +33,18 @@ The project involves the following components:
 
 Follow these steps to set up the project:
 
-1. **clone the repository**
+1. **Clone the repository**
 
-2. **Upload Code to Arduino:**
+2. **Circuit diagram
+   - Make the connections as per the circuit diagram. 
+    ![circuir](https://github.com/Omkarpote28/accident-prevention/blob/main/Circuit%20Diagram/Circuit%20Diagram.png)
+
+4. **Upload Code to Arduino:**
    - Open the Arduino IDE.
    - Load the Arduino code [accident_prevention.ino](https://github.com/Omkarpote28/accident-prevention/tree/main/Code) from the repository.
    - Connect the Arduino board to your computer and upload the code.
 
-3. **Assemble Hardware:**
+5. **Assemble Hardware:**
    - Connect ultrasonic sensors, LED lights, and buzzer based on the provided schematic.
    - Ensure all components are securely connected.
 
